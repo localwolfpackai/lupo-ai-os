@@ -24,7 +24,7 @@ This is a setup.
 
 ## Why it exists
 
-10 years selling SaaS at Salesforce, Yext, Samsara — President's Club at Yext. Pivoted to AI in 2023 and started building with Claude. Now I ship websites for San Diego small businesses at HumanLup and write daily about what I learn at Lupo Studios. None of that works without a system underneath it.
+10 years selling SaaS at Salesforce, Yext, Samsara — President's Club at Yext. Pivoted to AI in 2023 and started building with Claude. Currently shipping websites, helping strategize for the agentic web, SEO/AEO, and  for San Diego businesses at HumanLup and write daily about what I learn at Lupo Studios. None of that works without a system underneath it.
 
 This repo is that system, made portable. Every file in here is something I actually run.
 
@@ -110,4 +110,4 @@ Fork it. Steal from it. Open an issue if something doesn't make sense or breaks 
 
 Built and maintained by [Anthony Lupo](https://github.com/localwolfpackai). Find me on [X @humanlup](https://twitter.com/humanlup), [IG @_lupo](https://instagram.com/_lupo).
 
-— Lupo / Still Human
+— Lupo
