@@ -8,7 +8,7 @@ Central inventory and disposition map for the `localwolfpackai` GitHub estate.
 - Archived: **26**
 - Active: **43**
 - Automatically renamed, archived, or deleted: **0**
-- Last focused review: **2026-08-06 — Margie content workflow salvage**
+- Last focused review: **2026-08-06 — client content workflow salvage**
 
 ## Status vocabulary
 
@@ -34,19 +34,9 @@ Central inventory and disposition map for the `localwolfpackai` GitHub estate.
 
 ## Client repositories
 
-Keep client work isolated: `bumperdoc-santee`, `margielupo-com`, `margielupo-docs`, `margie-social-studio`, `guyfox-seo`, `meesh-fullsite`, and `tradition-x`. Reusable patterns may be copied out only with provenance.
+Keep client work isolated in private repos. Reusable patterns may be copied out only with provenance.
 
-### Margie family
-
-| Repository | Status | Boundary and direction |
-|---|---|---|
-| `margielupo-com` | `CLIENT / PRODUCTION` | Only deployable public-site source of truth; keep isolated |
-| `margielupo-docs` | `CLIENT / AUTHORITY HUB` | Strategy, SEO, brand knowledge, project map, and deliverables |
-| `margie-social-studio` | `SALVAGE / PRODUCT PROTOTYPE` | Preserve workflow models, library, previews, analytics, scheduler, and Brentwood utilities for future `margie-os` |
-| `margielupo-1` | `ARCHIVED / SALVAGE` | Preserve unique AI knowledge, valuation, market, neighborhood, and asset concepts before any further decision |
-| future `margie-os` | `PROPOSED DESTINATION` | Independent internal editorial OS; mocked data first; no production dependency |
-
-The first file-level manifest is documented in `docs/repo-salvage/2026-08-06-margie-content-workflow-manifest.md`. It preserves scheduling semantics and calendar interaction patterns while explicitly rejecting wholesale migration of the old Vite/shadcn implementations.
+Client repos are tracked privately and are not listed here.
 
 ## Design and UI family
 
@@ -92,7 +82,7 @@ The first file-level manifest is documented in `docs/repo-salvage/2026-08-06-mar
 
 Active publishing or knowledge repositories: `brand-sessions`, `docs`, `the-field-notebook`, `sessions-and-lessons`, `localwolfpackai`, and `claude-chrome-vault`.
 
-Review for durable content or clearer boundaries: `content-googleai`, `france-travel-june-2026`, `mm-playbook-01`, and `fable-automation-ideas`.
+Review for durable content or clearer boundaries: `content-googleai`, `mm-playbook-01`, and `fable-automation-ideas`.
 
 ## Remaining application and experiment review set
 
@@ -102,11 +92,15 @@ Review for durable content or clearer boundaries: `content-googleai`, `france-tr
 
 ### Archived (26)
 
-`margielupo-1`, `nextui-component-library`, `lh-voice-2-insight`, `plants-intro-hero`, `ai-campaign-gen`, `frosted-agent-flow`, `prompts-071525`, `checklists-and-prompts`, `vivid-uiux-prompt-library`, `nightowl-prompts`, `lupo-craft`, `glass-agent-portal`, `canvas-mvp`, `film-arc-generator`, `ai-studio-revamp`, `code-autopsy`, `clearview-gemini-nov24`, `3d-hero`, `ideaflow-googleaistudio`, `content-googleai`, `design-intelligence`, `lupo-engine`, `v0-seo-action-plan`, `v0-project-overview-page-design`, `design-system-hub-ui`, `oatmeal`.
+`nextui-component-library`, `lh-voice-2-insight`, `plants-intro-hero`, `ai-campaign-gen`, `frosted-agent-flow`, `prompts-071525`, `checklists-and-prompts`, `vivid-uiux-prompt-library`, `nightowl-prompts`, `lupo-craft`, `glass-agent-portal`, `canvas-mvp`, `film-arc-generator`, `ai-studio-revamp`, `code-autopsy`, `clearview-gemini-nov24`, `3d-hero`, `ideaflow-googleaistudio`, `content-googleai`, `design-intelligence`, `lupo-engine`, `v0-seo-action-plan`, `v0-project-overview-page-design`, `design-system-hub-ui`, `oatmeal`.
+
+Client and personal repos are omitted from this public list.
 
 ### Active (43)
 
-`localwolfpackai`, `visualize-workflow`, `plant-universe-experiment`, `v0-l0vit-1`, `docs`, `meesh-fullsite`, `margie-social-studio`, `plant-species-app`, `photosynthesis-site`, `aiuiux-playbooks`, `interactive-avatar`, `margin`, `untitled-ui`, `lupo-ai-os`, `daily-dose-agent`, `tequila-espresso`, `visual-canvas`, `claude-config`, `taste`, `ai-insights`, `lupo-portfolio`, `guyfox-seo`, `stealth-the-lab`, `v0-voice-agent-v1`, `geist-pixel-studio`, `bumperdoc-santee`, `mm-playbook-01`, `v0-plants-interactive-gallery`, `tradition-x`, `sessions-and-lessons`, `v0-darkloops`, `margielupo-com`, `margielupo-docs`, `brand-sessions`, `site-contextlup`, `france-travel-june-2026`, `claude-chrome-vault`, `nextjs-clean-website-sanity-template`, `fable-automation-ideas`, `ricks-park`, `the-field-notebook`, `ai-os`, `social-post`.
+`localwolfpackai`, `visualize-workflow`, `plant-universe-experiment`, `v0-l0vit-1`, `docs`, `plant-species-app`, `photosynthesis-site`, `aiuiux-playbooks`, `interactive-avatar`, `margin`, `untitled-ui`, `lupo-ai-os`, `daily-dose-agent`, `tequila-espresso`, `visual-canvas`, `claude-config`, `taste`, `ai-insights`, `lupo-portfolio`, `stealth-the-lab`, `v0-voice-agent-v1`, `geist-pixel-studio`, `mm-playbook-01`, `v0-plants-interactive-gallery`, `sessions-and-lessons`, `v0-darkloops`, `brand-sessions`, `site-contextlup`, `claude-chrome-vault`, `nextjs-clean-website-sanity-template`, `fable-automation-ideas`, `ricks-park`, `the-field-notebook`, `ai-os`, `social-post`.
+
+Client and personal repos are omitted from this public list.
 
 ## Salvage records
 
